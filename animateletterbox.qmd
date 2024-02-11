@@ -1,0 +1,13 @@
+---
+title: "Animate letterbox slides"
+subtitle: "quarto-revealjs-letterbox"
+format:
+  letterbox-revealjs:
+    logo: quarto.png
+revealjs-plugins:
+  - appearance
+---
+
+## Test with some image
+
+![](homer.png){.animate__bounceInLeft}
